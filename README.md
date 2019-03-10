@@ -65,19 +65,19 @@
 ---
 
 ### 相关比赛
-#### CriteoDisplayAdvertisingChallenge
+#### [CriteoDisplayAdvertisingChallenge](https://www.kaggle.com/c/criteo-display-ad-challenge)
 - Rank1: [借鉴了Facebook的方案: GBDT 特征编码 + FFM](https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10555)
 - Rank3: [Quadratic Feature Generation + FTRL 传统特征工程和 FTRL 线性模型的结合](https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10534)
 
-#### AvazuClickThroughRatePrediction
+#### [AvazuClickThroughRatePrediction](https://www.kaggle.com/c/avazu-ctr-prediction)
 - Rank1: [Feature Engineering + FFM + Ensemble, 只基于 FFM 进行集成](https://www.kaggle.com/c/avazu-ctr-prediction/discussion/12608)
 - Rank2: [Feature Engineering + GBDT 特征编码 + FFM + Blending](https://github.com/owenzhang/kaggle-avazu)
 
-#### 2018 IJCAI 阿里妈妈搜索广告转化预测
+#### [2018 IJCAI 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/entrance/231647/introduction?spm=5176.12281957.1004.10.38b04c2aaROEf9)
 - Rank1: [GBDT，用了嫁接技术处理样本分布不一致](https://github.com/plantsgo/ijcai-2018)
 - Rank2: [GBDT单模型+大量特征工程](https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution)
 
-#### 2018腾讯广告算法大赛
+#### [2018腾讯广告算法大赛](https://algo.qq.com/)
 - Rank3: https://github.com/DiligentPanda/Tencent_Ads_Algo_2018
 - Rank6: https://github.com/nzc/tencent-contest
 

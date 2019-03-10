@@ -27,7 +27,6 @@
 ### 推荐系统
 - [推荐系统理论及实战系列博文-石晓文](https://www.jianshu.com/nb/21403842)
 - [推荐系统实践-项亮](./resource/推荐系统实践-项亮.pdf)
-- [项亮博士论文](./resource/项亮博士论文.pdf)
 - [亿级用户个性化品类推荐实战](https://gitbook.cn/books/5acc23b4f453ee79e417c729/index.html)
 
 ---

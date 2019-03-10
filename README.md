@@ -1,6 +1,8 @@
 推荐系统/计算广告/机器学习/CTR预估资料汇总
 ===
-**说明**：本项目主要汇集推荐系统/计算广告/机器学习/CTR预估相关学习资料，欢迎一起补充更新
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Update](https://img.shields.io/badge/update-weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-1003%20%2F%201003-ff69b4.svg) [![SayThanks](https://img.shields.io/badge/say-thanks-ff69f4.svg)](https://saythanks.io/to/kamyu104) ![Travis](https://travis-ci.org/kamyu104/LeetCode-Solutions.svg?branch=master)
+
+**说明**：本仓库主要汇集推荐系统/计算广告/机器学习/CTR预估相关学习资料，欢迎一起补充更新👼
 
 **持续更新中……**
 
@@ -14,8 +16,8 @@
 	- [技术文章](#技术文章)
 	- [实践代码](#实践代码)
 - [相关比赛](#相关比赛)
-	- [Criteo Display Advertising Challenge](#Criteo-Display-Advertising Challenge)
-	- [Avazu Click Through Rate Prediction](#Avazu-Click-Through-Rate Prediction)
+	- [Criteo Display Advertising Challenge](#CriteoDisplayAdvertisingChallenge)
+	- [Avazu Click Through Rate Prediction](#AvazuClickThroughRatePrediction)
 	- [2018 IJCAI 阿里妈妈搜索广告转化预测](#2018-IJCAI-阿里妈妈搜索广告转化预测)
 	- [2018腾讯广告算法大赛](#2018腾讯广告算法大赛)
 - [框架工具](#框架工具)
@@ -28,10 +30,14 @@
 - [项亮博士论文](./resource/项亮博士论文.pdf)
 - [亿级用户个性化品类推荐实战](https://gitbook.cn/books/5acc23b4f453ee79e417c729/index.html)
 
+---
+
 ### 计算广告
 - [互联网广告系统综述系列博文](https://blog.csdn.net/mytestmy/article/list)
 - [计算广告学系列视屏-刘鹏](https://study.163.com/course/introduction.htm?courseId=321007#/courseDetail?tab=1)
 - [计算广告学讲义-刘鹏](https://dirtysalt.github.io/html/computational-advertising.html)
+
+---
 
 ### 统计学习模型
 #### 技术文章
@@ -45,6 +51,8 @@
 - [LIBFFM](https://github.com/guestwalk/libffm)
 - [xLearn](https://github.com/aksnzhy/xlearn)
 
+---
+
 ### 深度学习模型
 #### 技术文章
 - [深度学习如何应用在广告、推荐及搜索业务？](https://mp.weixin.qq.com/s/nboZ6p_l30L__FJNyz6Ohw)
@@ -55,12 +63,14 @@
 - [CTR预估算法之FM, FFM, DeepFM及实践](https://github.com/Johnson0722/CTR_Prediction)
 - [推荐系统中使用ctr排序的dnn模型](https://github.com/nzc/dnn_ctr)
 
+---
+
 ### 相关比赛
-#### Criteo Display Advertising Challenge
+#### CriteoDisplayAdvertisingChallenge
 - Rank1: [借鉴了Facebook的方案: GBDT 特征编码 + FFM](https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10555)
 - Rank3: [Quadratic Feature Generation + FTRL 传统特征工程和 FTRL 线性模型的结合](https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10534)
 
-#### Avazu Click Through Rate Prediction
+#### AvazuClickThroughRatePrediction
 - Rank1: [Feature Engineering + FFM + Ensemble, 只基于 FFM 进行集成](https://www.kaggle.com/c/avazu-ctr-prediction/discussion/12608)
 - Rank2: [Feature Engineering + GBDT 特征编码 + FFM + Blending](https://github.com/owenzhang/kaggle-avazu)
 
@@ -71,6 +81,8 @@
 #### 2018腾讯广告算法大赛
 - Rank3: https://github.com/DiligentPanda/Tencent_Ads_Algo_2018
 - Rank6: https://github.com/nzc/tencent-contest
+
+---
 
 ### Todo
 - 强化学习模型(Bid相关)

@@ -4,13 +4,23 @@
 
 **持续更新中……**
 
-### RoadMap
+# RoadMap
 - :football:[推荐系统](#推荐系统)
 - :basketball:[计算广告](#计算广告)
 - :hamburger:[统计学习模型](#统计学习模型)
+	- [技术文章](#技术文章)
+	- [实践工具](#实践工具)
 - :fries:[深度学习模型](#深度学习模型)
+	- [技术文章](#技术文章)
+	- [实践代码](#实践代码)
 - :strawberry:[相关比赛](#相关比赛)
+	- [Criteo Display Advertising Challenge](#Criteo-Display-Advertising Challenge)
+	- [Avazu Click-Through Rate Prediction](#Avazu-Click-Through-Rate Prediction)
+	- [2018 IJCAI 阿里妈妈搜索广告转化预测](#2018-IJCAI-阿里妈妈搜索广告转化预测)
+	- [2018腾讯广告算法大赛](#2018腾讯广告算法大赛)
 - :orange:[框架工具](#框架工具)
+
+---
 
 ### 推荐系统
 - [推荐系统理论及实战系列博文-石晓文](https://www.jianshu.com/nb/21403842)
@@ -24,17 +34,24 @@
 - [计算广告学讲义-刘鹏](https://dirtysalt.github.io/html/computational-advertising.html)
 
 ### 统计学习模型
+#### 技术文章
 - [逻辑回归LR模型简介](https://tech.meituan.com/2015/05/08/intro-to-logistic-regression.html)
 - [FFM讲解PPT](./resource/ffm.pdf)
 - [深入FFM原理与实践](https://tech.meituan.com/2016/03/03/deep-understanding-of-ffm-principles-and-practices.html)
 - [GBDT算法原理与系统设计简介](./resource/GBDT-wepon.pdf)
-
+#### 实践工具
+- [LightGBM](https://github.com/Microsoft/LightGBM)
+- [XGBoost](https://github.com/dmlc/xgboost)
+- [LIBFFM](https://github.com/guestwalk/libffm)
+- [xLearn](https://github.com/aksnzhy/xlearn)
 
 ### 深度学习模型
+#### 技术文章
 - [深度学习如何应用在广告、推荐及搜索业务？](https://mp.weixin.qq.com/s/nboZ6p_l30L__FJNyz6Ohw)
 - [深度学习在CTR预估中的应用](https://zhuanlan.zhihu.com/p/35484389)
 - [深度学习在 CTR 中应用](http://www.mamicode.com/info-detail-1990002.html)
 - [深度学习在美团点评推荐业务中实践](https://gitbook.cn/books/5aa0dd15cfbe2c144b71906d/index.html)
+#### 实践代码
 - [CTR预估算法之FM, FFM, DeepFM及实践](https://github.com/Johnson0722/CTR_Prediction)
 - [推荐系统中使用ctr排序的dnn模型](https://github.com/nzc/dnn_ctr)
 
@@ -54,13 +71,6 @@
 #### 2018腾讯广告算法大赛
 - Rank3: https://github.com/DiligentPanda/Tencent_Ads_Algo_2018
 - Rank6: https://github.com/nzc/tencent-contest
-
-### 框架工具
-- [LightGBM](https://github.com/Microsoft/LightGBM)
-- [XGBoost](https://github.com/dmlc/xgboost)
-- [LIBFFM](https://github.com/guestwalk/libffm)
-- [xLearn](https://github.com/aksnzhy/xlearn)
-- [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 ### Todo
 - 强化学习模型(Bid相关)

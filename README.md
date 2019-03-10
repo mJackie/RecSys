@@ -5,20 +5,20 @@
 **持续更新中……**
 
 # RoadMap
-- :football:[推荐系统](#推荐系统)
-- :basketball:[计算广告](#计算广告)
-- :hamburger:[统计学习模型](#统计学习模型)
+- [推荐系统](#推荐系统)
+- [计算广告](#计算广告)
+- [统计学习模型](#统计学习模型)
 	- [技术文章](#技术文章)
 	- [实践工具](#实践工具)
-- :fries:[深度学习模型](#深度学习模型)
+- [深度学习模型](#深度学习模型)
 	- [技术文章](#技术文章)
 	- [实践代码](#实践代码)
-- :strawberry:[相关比赛](#相关比赛)
+- [相关比赛](#相关比赛)
 	- [Criteo Display Advertising Challenge](#Criteo-Display-Advertising Challenge)
-	- [Avazu Click-Through Rate Prediction](#Avazu-Click-Through-Rate Prediction)
+	- [Avazu Click Through Rate Prediction](#Avazu-Click-Through-Rate Prediction)
 	- [2018 IJCAI 阿里妈妈搜索广告转化预测](#2018-IJCAI-阿里妈妈搜索广告转化预测)
 	- [2018腾讯广告算法大赛](#2018腾讯广告算法大赛)
-- :orange:[框架工具](#框架工具)
+- [框架工具](#框架工具)
 
 ---
 
@@ -60,7 +60,7 @@
 - Rank1: [借鉴了Facebook的方案: GBDT 特征编码 + FFM](https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10555)
 - Rank3: [Quadratic Feature Generation + FTRL 传统特征工程和 FTRL 线性模型的结合](https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10534)
 
-#### Avazu Click-Through Rate Prediction
+#### Avazu Click Through Rate Prediction
 - Rank1: [Feature Engineering + FFM + Ensemble, 只基于 FFM 进行集成](https://www.kaggle.com/c/avazu-ctr-prediction/discussion/12608)
 - Rank2: [Feature Engineering + GBDT 特征编码 + FFM + Blending](https://github.com/owenzhang/kaggle-avazu)
 

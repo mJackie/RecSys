@@ -20,12 +20,11 @@
 	- [Avazu Click Through Rate Prediction](#AvazuClickThroughRatePrediction)
 	- [2018 IJCAI 阿里妈妈搜索广告转化预测](#2018-IJCAI-阿里妈妈搜索广告转化预测)
 	- [2018腾讯广告算法大赛](#2018腾讯广告算法大赛)
-- [框架工具](#框架工具)
+- [技术博客](#技术博客)
 
 ---
 
 ### 推荐系统
-- [推荐系统理论及实战系列博文-石晓文](https://www.jianshu.com/nb/21403842)
 - [推荐系统实践-项亮](./resource/推荐系统实践-项亮.pdf)
 - [亿级用户个性化品类推荐实战](https://gitbook.cn/books/5acc23b4f453ee79e417c729/index.html)
 
@@ -44,6 +43,7 @@
 - [FFM讲解PPT](./resource/ffm.pdf)
 - [深入FFM原理与实践](https://tech.meituan.com/2016/03/03/deep-understanding-of-ffm-principles-and-practices.html)
 - [GBDT算法原理与系统设计简介](./resource/GBDT-wepon.pdf)
+
 #### 实践工具
 - [LightGBM](https://github.com/Microsoft/LightGBM)
 - [XGBoost](https://github.com/dmlc/xgboost)
@@ -83,7 +83,14 @@
 
 ---
 
+### 技术博客
+- [美团技术点评](https://tech.meituan.com/)
+- [火光摇曳](http://www.flickering.cn/)
+- [推荐系统理论及实战](https://www.jianshu.com/nb/21403842)
+
 ### Todo
-- 强化学习模型(Bid相关)
+- 经典论文paper整理
 - 与图像/NLP/知识图谱的结合
+- 强化学习模型(Bid相关)
+
 

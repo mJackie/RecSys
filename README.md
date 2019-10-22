@@ -23,6 +23,10 @@
 - [技术博客](#技术博客)
 
 ---
+### 推荐系统简明教程
+- [推荐系统简明教程-概述](https://zhuanlan.zhihu.com/p/87411668)
+- [推荐系统简明教程-召回](https://zhuanlan.zhihu.com/p/87578318)
+- [推荐系统简明教程-排序](https://zhuanlan.zhihu.com/p/87796986)
 
 ### 推荐系统
 - [推荐系统实践-项亮](./resource/推荐系统实践-项亮.pdf)
@@ -84,13 +88,14 @@
 ---
 
 ### 技术博客
+- [深度推荐系统](https://zhuanlan.zhihu.com/deep-recsys)
 - [美团技术点评](https://tech.meituan.com/)
-- [火光摇曳](http://www.flickering.cn/)
+- [深度学习沿言笔记](https://zhuanlan.zhihu.com/c_188941548)
+- [王喆的机器学习笔记](https://zhuanlan.zhihu.com/wangzhenotes)
 - [推荐系统理论及实战](https://www.jianshu.com/nb/21403842)
 
 ### Todo
 - 经典论文paper整理
-- 与图像/NLP/知识图谱的结合
-- 强化学习模型(Bid相关)
+
 
 

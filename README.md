@@ -21,6 +21,7 @@
 	- [2018 IJCAI 阿里妈妈搜索广告转化预测](#2018-IJCAI-阿里妈妈搜索广告转化预测)
 	- [2018腾讯广告算法大赛](#2018腾讯广告算法大赛)
 - [技术博客](#技术博客)
+- [经典论文清单](#经典论文清单)
 
 ---
 ### 推荐系统
@@ -40,6 +41,7 @@
 
 ### 统计学习模型
 #### 技术文章
+- [前深度学习时代CTR预估模型的演化之路](https://zhuanlan.zhihu.com/p/61154299)
 - [逻辑回归LR模型简介](https://tech.meituan.com/2015/05/08/intro-to-logistic-regression.html)
 - [FFM讲解PPT](./resource/ffm.pdf)
 - [深入FFM原理与实践](https://tech.meituan.com/2016/03/03/deep-understanding-of-ffm-principles-and-practices.html)
@@ -92,8 +94,49 @@
 - [推荐系统理论及实战](https://www.jianshu.com/nb/21403842)
 - [刘十三的机器学习笔记](https://zhuanlan.zhihu.com/c_1169669630389440512)
 
-### Todo
-- 经典论文paper整理
+### 经典论文清单
+筛选文章的标准：**前沿或者经典的，工程导向的，google、阿里、facebook等一线互联网公司出品的**：
+
+[**Wide & Deep Learning for Recommender Systems**](./paper/wide&deep.pdf)
+
+> google 的 wide&deep，必看论文，经典到难以附加
+
+[**DeepFM: An End-to-End Wide & Deep Learning
+Framework for CTR Prediction**](./paper/deepfm.pdf)
+
+> 华为对wide&deep的改进，加了wide层的交叉项。如今工业界的主流模型
+
+[**Practical lessons from predicting clicks on ads at facebook**](./paper/2014GBDT+LR-Facebook.pdf)
+
+> facebook GBDT+LR的经典方案。虽然如今已不是主流方案，但论文中的思想很值得学习。
+
+[**Deep Neural Networks for YouTube Recommendations**](./paper/youtube-recsys.pdf)
+
+> 介绍了Youtube推荐系统工业界架构与方案，经典必看
+
+
+[**Real-time Personalization using Embeddings for Search Ranking at Airbnb**](./paper/airbnb2018KDD.pdf)
+
+> KDD2018 best paper，Embedding 必看论文，非常经典
+
+[**Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate**](./paper/ESSM2018.pdf)
+
+> 阿里的多目标学习经典方案，同时优化CTR & CVR
+
+
+[**Real-time Personalization using Embeddings for Search Ranking at Airbnb**](./paper/aribnbSearch.pdf)
+> 介绍了 airbnb 搜索排序模型的演进，工业性质很强，值得参考
+
+
+[**搜索引擎点击模型综述**](./paper/搜索引擎点击模型综述.pdf)
+> 清华马少平团队的文章点击模型入门必看，搜索引擎点击模型综述
+
+
+
+
+
+
+
 
 
 

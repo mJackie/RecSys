@@ -90,6 +90,7 @@
 - [深度学习沿言笔记](https://zhuanlan.zhihu.com/c_188941548)
 - [王喆的机器学习笔记](https://zhuanlan.zhihu.com/wangzhenotes)
 - [推荐系统理论及实战](https://www.jianshu.com/nb/21403842)
+- [刘十三的机器学习笔记](https://zhuanlan.zhihu.com/c_1169669630389440512)
 
 ### Todo
 - 经典论文paper整理

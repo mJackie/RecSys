@@ -23,14 +23,11 @@
 - [技术博客](#技术博客)
 
 ---
-### 推荐系统简明教程
+### 推荐系统
 - [推荐系统简明教程-概述](https://zhuanlan.zhihu.com/p/87411668)
 - [推荐系统简明教程-召回](https://zhuanlan.zhihu.com/p/87578318)
 - [推荐系统简明教程-排序](https://zhuanlan.zhihu.com/p/87796986)
-
-### 推荐系统
 - [推荐系统实践-项亮](./resource/推荐系统实践-项亮.pdf)
-- [亿级用户个性化品类推荐实战](https://gitbook.cn/books/5acc23b4f453ee79e417c729/index.html)
 
 ---
 

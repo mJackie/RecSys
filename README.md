@@ -52,6 +52,7 @@
 - [XGBoost](https://github.com/dmlc/xgboost)
 - [LIBFFM](https://github.com/guestwalk/libffm)
 - [xLearn](https://github.com/aksnzhy/xlearn)
+- [DeepCTR](https://github.com/shenweichen/DeepCTR)
 
 ---
 
